@@ -3,7 +3,7 @@
     {
       "home": "Ryssland",
       "away": "Saudiarabien",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "RUS",
       "awayCode": "KSA"
     },
@@ -31,28 +31,28 @@
     {
       "home": "Saudiarabien",
       "away": "Egypten",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "KSA",
       "awayCode": "EGY"
     },
     {
       "home": "Uruguay",
       "away": "Ryssland",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "URU",
       "awayCode": "RUS"
     },
     {
       "home": "Marocko",
       "away": "Iran",
-      "guessedResult": "X",
+      "guessedResult": 1,
       "homeCode": "MAR",
       "awayCode": "IRN"
     },
     {
       "home": "Portugal",
       "away": "Spanien",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "POR",
       "awayCode": "ESP"
     },
@@ -73,7 +73,7 @@
     {
       "home": "Spanien",
       "away": "Marocko",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "ESP",
       "awayCode": "MAR"
     },
@@ -108,14 +108,14 @@
     {
       "home": "Frankrike",
       "away": "Peru",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "FRA",
       "awayCode": "PER"
     },
     {
       "home": "Danmark",
       "away": "Frankrike",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "DEN",
       "awayCode": "FRA"
     },
@@ -129,14 +129,14 @@
     {
       "home": "Argentina",
       "away": "Island",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "ARG",
       "awayCode": "ISL"
     },
     {
       "home": "Kroatien",
       "away": "Nigeria",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "CRO",
       "awayCode": "NGA"
     },
@@ -150,35 +150,35 @@
     {
       "home": "Nigeria",
       "away": "Island",
-      "guessedResult": "X",
+      "guessedResult": 1,
       "homeCode": "NGA",
       "awayCode": "ISL"
     },
     {
       "home": "Island",
       "away": "Kroatien",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "ISL",
       "awayCode": "CRO"
     },
     {
       "home": "Nigeria",
       "away": "Argentina",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "NGA",
       "awayCode": "ARG"
     },
     {
       "home": "Costa Rica",
       "away": "Serbien",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "CRC",
       "awayCode": "SRB"
     },
     {
       "home": "Brasilien",
       "away": "Schweiz",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "BRA",
       "awayCode": "SUI"
     },
@@ -192,7 +192,7 @@
     {
       "home": "Serbien",
       "away": "Schweiz",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "SRB",
       "awayCode": "SUI"
     },
@@ -206,7 +206,7 @@
     {
       "home": "Schweiz",
       "away": "Costa Rica",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "SUI",
       "awayCode": "CRC"
     },
@@ -227,21 +227,21 @@
     {
       "home": "Sydkorea",
       "away": "Mexiko",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "KOR",
       "awayCode": "MEX"
     },
     {
       "home": "Tyskland",
       "away": "Sverige",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "GER",
       "awayCode": "SWE"
     },
     {
       "home": "Mexiko",
       "away": "Sverige",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "MEX",
       "awayCode": "SWE"
     },
@@ -276,21 +276,21 @@
     {
       "home": "England",
       "away": "Panama",
-      "guessedResult": "X",
+      "guessedResult": 1,
       "homeCode": "ENG",
       "awayCode": "PAN"
     },
     {
       "home": "England",
       "away": "Belgien",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "ENG",
       "awayCode": "BEL"
     },
     {
       "home": "Panama",
       "away": "Tunisien",
-      "guessedResult": "X",
+      "guessedResult": 2,
       "homeCode": "PAN",
       "awayCode": "TUN"
     },
@@ -311,7 +311,7 @@
     {
       "home": "Japan",
       "away": "Senegal",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "JPN",
       "awayCode": "SEN"
     },
@@ -325,7 +325,7 @@
     {
       "home": "Japan",
       "away": "Polen",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "JPN",
       "awayCode": "POL"
     },
@@ -338,16 +338,16 @@
     }
   ],
   "quizQuestions": {
-    "bestScorer": "Messi",
-    "mostYellowCards": "Fellaini",
-    "mostCleanSheets": "De Gea",
+    "bestScorer": "Müller",
+    "mostYellowCards": "Sergio Ramos",
+    "mostCleanSheets": "David de Gea",
     "biggestWin": "Tyskland",
-    "varDisqualifiedGoals": 4,
-    "firstFreekickGoal": "Suarez",
-    "finalsOnOvertime": 5,
-    "silver": "Frankrike",
-    "clubWithMostPlayersInFinal": "PSG",
+    "varDisqualifiedGoals": 1,
+    "firstFreekickGoal": "Pogba",
+    "finalsOnOvertime": 4,
+    "silver": "Spanien",
+    "clubWithMostPlayersInFinal": "Bayern München",
     "willSwedenAdvance": "Ja",
-    "finalDecidedInregularTime": "Nej"
+    "finalDecidedInregularTime": "Ja"
   }
 }

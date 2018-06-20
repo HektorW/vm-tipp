@@ -17,7 +17,7 @@
     {
       "home": "Ryssland",
       "away": "Egypten",
-      "guessedResult": "X",
+      "guessedResult": 2,
       "homeCode": "RUS",
       "awayCode": "EGY"
     },
@@ -94,14 +94,14 @@
     {
       "home": "Peru",
       "away": "Danmark",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "PER",
       "awayCode": "DEN"
     },
     {
       "home": "Danmark",
       "away": "Australien",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "DEN",
       "awayCode": "AUS"
     },
@@ -115,7 +115,7 @@
     {
       "home": "Danmark",
       "away": "Frankrike",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "DEN",
       "awayCode": "FRA"
     },
@@ -136,28 +136,28 @@
     {
       "home": "Kroatien",
       "away": "Nigeria",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "CRO",
       "awayCode": "NGA"
     },
     {
       "home": "Argentina",
       "away": "Kroatien",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "ARG",
       "awayCode": "CRO"
     },
     {
       "home": "Nigeria",
       "away": "Island",
-      "guessedResult": "X",
+      "guessedResult": 2,
       "homeCode": "NGA",
       "awayCode": "ISL"
     },
     {
       "home": "Island",
       "away": "Kroatien",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "ISL",
       "awayCode": "CRO"
     },
@@ -171,7 +171,7 @@
     {
       "home": "Costa Rica",
       "away": "Serbien",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "CRC",
       "awayCode": "SRB"
     },
@@ -206,7 +206,7 @@
     {
       "home": "Schweiz",
       "away": "Costa Rica",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "SUI",
       "awayCode": "CRC"
     },
@@ -227,7 +227,7 @@
     {
       "home": "Sydkorea",
       "away": "Mexiko",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "KOR",
       "awayCode": "MEX"
     },
@@ -241,7 +241,7 @@
     {
       "home": "Mexiko",
       "away": "Sverige",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "MEX",
       "awayCode": "SWE"
     },
@@ -276,7 +276,7 @@
     {
       "home": "England",
       "away": "Panama",
-      "guessedResult": "X",
+      "guessedResult": 1,
       "homeCode": "ENG",
       "awayCode": "PAN"
     },
@@ -290,14 +290,14 @@
     {
       "home": "Panama",
       "away": "Tunisien",
-      "guessedResult": "X",
+      "guessedResult": 2,
       "homeCode": "PAN",
       "awayCode": "TUN"
     },
     {
       "home": "Colombia",
       "away": "Japan",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "COL",
       "awayCode": "JPN"
     },
@@ -311,21 +311,21 @@
     {
       "home": "Japan",
       "away": "Senegal",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "JPN",
       "awayCode": "SEN"
     },
     {
       "home": "Polen",
       "away": "Colombia",
-      "guessedResult": "X",
+      "guessedResult": 2,
       "homeCode": "POL",
       "awayCode": "COL"
     },
     {
       "home": "Japan",
       "away": "Polen",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "JPN",
       "awayCode": "POL"
     },
@@ -338,16 +338,16 @@
     }
   ],
   "quizQuestions": {
-    "bestScorer": "Messi",
-    "mostYellowCards": "Fellaini",
-    "mostCleanSheets": "De Gea",
-    "biggestWin": "Tyskland",
-    "varDisqualifiedGoals": 4,
-    "firstFreekickGoal": "Suarez",
+    "bestScorer": "Neymar",
+    "mostYellowCards": "Suarez",
+    "mostCleanSheets": "Neuer",
+    "biggestWin": "Belgien",
+    "varDisqualifiedGoals": 3,
+    "firstFreekickGoal": "Modric",
     "finalsOnOvertime": 5,
-    "silver": "Frankrike",
-    "clubWithMostPlayersInFinal": "PSG",
-    "willSwedenAdvance": "Ja",
-    "finalDecidedInregularTime": "Nej"
+    "silver": "Brasilien",
+    "clubWithMostPlayersInFinal": "Bayern Munchen",
+    "willSwedenAdvance": "Nej",
+    "finalDecidedInregularTime": "Ja"
   }
 }

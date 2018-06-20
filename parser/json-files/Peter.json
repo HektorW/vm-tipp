@@ -17,7 +17,7 @@
     {
       "home": "Ryssland",
       "away": "Egypten",
-      "guessedResult": "X",
+      "guessedResult": 2,
       "homeCode": "RUS",
       "awayCode": "EGY"
     },
@@ -45,14 +45,14 @@
     {
       "home": "Marocko",
       "away": "Iran",
-      "guessedResult": "X",
+      "guessedResult": 1,
       "homeCode": "MAR",
       "awayCode": "IRN"
     },
     {
       "home": "Portugal",
       "away": "Spanien",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "POR",
       "awayCode": "ESP"
     },
@@ -66,7 +66,7 @@
     {
       "home": "Iran",
       "away": "Spanien",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "IRN",
       "awayCode": "ESP"
     },
@@ -94,7 +94,7 @@
     {
       "home": "Peru",
       "away": "Danmark",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "PER",
       "awayCode": "DEN"
     },
@@ -115,7 +115,7 @@
     {
       "home": "Danmark",
       "away": "Frankrike",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "DEN",
       "awayCode": "FRA"
     },
@@ -136,21 +136,21 @@
     {
       "home": "Kroatien",
       "away": "Nigeria",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "CRO",
       "awayCode": "NGA"
     },
     {
       "home": "Argentina",
       "away": "Kroatien",
-      "guessedResult": 1,
+      "guessedResult": "X",
       "homeCode": "ARG",
       "awayCode": "CRO"
     },
     {
       "home": "Nigeria",
       "away": "Island",
-      "guessedResult": "X",
+      "guessedResult": 2,
       "homeCode": "NGA",
       "awayCode": "ISL"
     },
@@ -192,7 +192,7 @@
     {
       "home": "Serbien",
       "away": "Schweiz",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "SRB",
       "awayCode": "SUI"
     },
@@ -220,14 +220,14 @@
     {
       "home": "Sverige",
       "away": "Sydkorea",
-      "guessedResult": "X",
+      "guessedResult": 1,
       "homeCode": "SWE",
       "awayCode": "KOR"
     },
     {
       "home": "Sydkorea",
       "away": "Mexiko",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "KOR",
       "awayCode": "MEX"
     },
@@ -241,7 +241,7 @@
     {
       "home": "Mexiko",
       "away": "Sverige",
-      "guessedResult": 2,
+      "guessedResult": "X",
       "homeCode": "MEX",
       "awayCode": "SWE"
     },
@@ -262,7 +262,7 @@
     {
       "home": "Tunisien",
       "away": "England",
-      "guessedResult": "X",
+      "guessedResult": 2,
       "homeCode": "TUN",
       "awayCode": "ENG"
     },
@@ -276,7 +276,7 @@
     {
       "home": "England",
       "away": "Panama",
-      "guessedResult": "X",
+      "guessedResult": 1,
       "homeCode": "ENG",
       "awayCode": "PAN"
     },
@@ -297,7 +297,7 @@
     {
       "home": "Colombia",
       "away": "Japan",
-      "guessedResult": 2,
+      "guessedResult": 1,
       "homeCode": "COL",
       "awayCode": "JPN"
     },
@@ -311,21 +311,21 @@
     {
       "home": "Japan",
       "away": "Senegal",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "JPN",
       "awayCode": "SEN"
     },
     {
       "home": "Polen",
       "away": "Colombia",
-      "guessedResult": "X",
+      "guessedResult": 1,
       "homeCode": "POL",
       "awayCode": "COL"
     },
     {
       "home": "Japan",
       "away": "Polen",
-      "guessedResult": 1,
+      "guessedResult": 2,
       "homeCode": "JPN",
       "awayCode": "POL"
     },
@@ -338,15 +338,15 @@
     }
   ],
   "quizQuestions": {
-    "bestScorer": "Messi",
-    "mostYellowCards": "Fellaini",
-    "mostCleanSheets": "De Gea",
-    "biggestWin": "Tyskland",
-    "varDisqualifiedGoals": 4,
-    "firstFreekickGoal": "Suarez",
-    "finalsOnOvertime": 5,
-    "silver": "Frankrike",
-    "clubWithMostPlayersInFinal": "PSG",
+    "bestScorer": "Neymar",
+    "mostYellowCards": "Diego Godin",
+    "mostCleanSheets": "Courtois",
+    "biggestWin": "Brasilien",
+    "varDisqualifiedGoals": 3,
+    "firstFreekickGoal": "C Ronaldo",
+    "finalsOnOvertime": 2,
+    "silver": "Portugal",
+    "clubWithMostPlayersInFinal": "Real Madrid",
     "willSwedenAdvance": "Ja",
     "finalDecidedInregularTime": "Nej"
   }
