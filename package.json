@@ -1,0 +1,21 @@
+{
+  "name": "vm-tipp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "postinstall": "cd server && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HektorW/vm-tipp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/HektorW/vm-tipp/issues"
+  },
+  "homepage": "https://github.com/HektorW/vm-tipp#readme"
+}
