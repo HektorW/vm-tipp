@@ -15,17 +15,38 @@ app.use(async ctx => {
 
       <style>
         html {
-          font-family: monospace;
+          font-family: Lucida Sans Typewriter;
         }
-
+        h1 {
+          color: white;
+          font-size: 50px;
+        }
         body {
           margin: 0 auto;
           max-width: 600px;
+          background-color: black;
+          color: cyan;
+        }
+        .head {
+          margin-top: 10px; 
+          background-color: blue;
+        }
+        div {
+          text-align: center;
+        }
+        ol {
+          max-width: 150px;
+          display: inline-block;
+          margin-left: auto;
+          margin-right: auto;
         }
       </style>
     </head>
     <body>
-      <h1>Vm-Tipp!</h1>
+      <div class="head">
+        <h1>Vm-Tipp!</h1>
+      </div>
+      <div>
       <ol>
         ${playerScores
           .map(
@@ -39,7 +60,7 @@ app.use(async ctx => {
           )
           .join('')}
       </ol>
-
+      </div>
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-38222622-2"></script>
       <script>
         window.dataLayer = window.dataLayer || [];

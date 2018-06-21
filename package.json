@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/HektorW/vm-tipp/issues"
   },
-  "homepage": "https://github.com/HektorW/vm-tipp#readme"
+  "homepage": "https://github.com/HektorW/vm-tipp#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
 }
